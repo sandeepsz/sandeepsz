@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandip Nepali</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=1f6d2d&center=true&vCenter=true&width=402&height=61&lines=I+am+a+Software+Engineering+Student;Front+End+Developer;MERN+stack+developer;trying+to+Explore+new+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=01f702&center=true&vCenter=true&width=402&height=61&lines=I+am+a+Software+Engineering+Student;Front+End+Developer;MERN+stack+developer;trying+to+Explore+new+technology)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Next.js Projects**
 
